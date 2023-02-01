@@ -1,0 +1,1 @@
+Run the main.m file it will give the prediction based on the Coin images placed in measurement folder.
